@@ -1,9 +1,10 @@
 * p {
   color: #a3a2a2;
+  text-align: left;
 }
-
-.navbar {
-  margin: 20px 150px 10px 50px;
+* .navbar {
+  margin: 20px 120px 10px 60px;
+  background-color: white;
 }
 
 .navbar a {
@@ -14,20 +15,77 @@
 
 .navbar .btn-danger {
   font-size: 12px;
-  background-color: #FA5959;
+  background-color: #fa5959;
   border: none;
 }
 
-.col-md-6 {
-  margin-right: 0px;
+.tab-content {
+  margin-top: 80px;
+}
+
+.second-row {
+  align-items: center;
+  text-align: center;
+}
+
+.image_b {
+  margin-left: -150px;
 }
 
 .btn-primary {
-  background-color: #5265E1;
+  background-color: #5265e1;
   border: none;
 }
 
-.container-product {
-  margin-top: 80px;
+.container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  align-content: center;
 }
-/*# sourceMappingURL=main.css.map */
+
+h4 {
+  text-align: left;
+}
+
+.tab-content {
+  margin-left: none;
+  margin-right: none;
+}
+
+.nav-tabs {
+  margin-bottom: 10px;
+  border: none;
+  height: 32px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-tabs .nav-link {
+  color: #a3a2a2;
+  border-bottom-color: #a3a2a2;
+  border-radius: 0px;
+}
+.nav-tabs .nav-link-active {
+  color: rgb(70, 70, 70);
+}
+.nav-tabs .nav-link-active {
+  border-bottom-color: #fa5959;
+  border-radius: 0px;
+}
+
+.card {
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 15px;
+  border: none;
+  align-items: center;
+  justify-items: center;
+  width: 250px;
+  height: 350px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #5265e1;
+}
+
+/*# sourceMappingURL=main.css.map *//*# sourceMappingURL=main.css.map */
