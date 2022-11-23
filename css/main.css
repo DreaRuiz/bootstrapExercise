@@ -1,0 +1,30 @@
+* {
+  background-color: black; }
+  * p {
+    color: #a3a2a2; }
+  * .navbar {
+    margin: 20px 150px 10px 50px; }
+
+.navbar a {
+  color: grey;
+  text-transform: uppercase;
+  font-size: 12px; }
+
+.navbar .btn-danger {
+  font-size: 12px;
+  background-color: #FA5959;
+  border: none; }
+
+.col-md-6 {
+  margin-right: 0px; }
+
+.btn-primary {
+  background-color: #5265E1;
+  border: none; }
+
+.container-product {
+  margin-top: 80px; }
+
+/*# sourceMappingURL=main.css.map */
+
+/*# sourceMappingURL=main.css.map */
